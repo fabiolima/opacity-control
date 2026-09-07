@@ -2,6 +2,12 @@
 
 Floating panel to set the focused window's opacity from a slider.
 
+
+
+https://github.com/user-attachments/assets/f4d22534-046d-4f16-8291-2a2e22ed2333
+
+
+
 ## Install
 
 Omarchy has no manifest field or install hook for either of these, so both
