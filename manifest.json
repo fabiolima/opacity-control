@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "opacity-control",
+  "name": "Opacity Control",
+  "version": "2.0.0",
+  "author": "User",
+  "license": "MIT",
+  "description": "Floating panel to set the focused window's opacity live via a slider.",
+  "kinds": ["panel"],
+  "entryPoints": {
+    "panel": "Panel.qml"
+  }
+}
